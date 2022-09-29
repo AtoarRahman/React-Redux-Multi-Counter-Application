@@ -21,3 +21,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 <p>Netlify: <a href="https://zippy-sunshine-7856ba.netlify.app" target="_blank" >Live Demo</a></p>
+
+<p>Preview:</p>
+
+![alt text](https://github.com/[AtoarRahman]/[reponame]/blob/[React-Redux-Multi-Counter-Application]/preview.png?raw=true)
