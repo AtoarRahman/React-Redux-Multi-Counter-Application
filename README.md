@@ -24,4 +24,4 @@ You may also see any lint errors in the console.
 
 <p>Preview:</p>
 
-![alt text](https://github.com/[AtoarRahman]/[reponame]/blob/[React-Redux-Multi-Counter-Application]/preview.png?raw=true)
+![alt text](https://github.com/AtoarRahman/React-Redux-Multi-Counter-Application/blob/main/preview.png?raw=true)
